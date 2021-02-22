@@ -1,9 +1,8 @@
 
 
 
-// Write password to the #password input
 const generateBtn = document.querySelector("#generate")
-// Add event listener to generate button
+
 
 
 
@@ -47,7 +46,7 @@ function generatePassword() {
           
         questions = [upper, lower, special, number]  
            
-        const values = 'ABCDEFGHIJKLMNOPQRSTUVWXYZbcdefghijklmnopqrstuvwxyz~!@#$%^&*()-+/0123456789';
+        const values = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz~!@#$%^&*()-+/0123456789';
 
 
         var totalLength = '';
