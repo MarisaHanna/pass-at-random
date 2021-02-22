@@ -31,5 +31,5 @@
 #   Link To Deployed Application    
 
 
-    [github link](https://marisahanna.github.io/pass-at-random/)
+    [Project Link](https://marisahanna.github.io/pass-at-random/)
 
